@@ -10,5 +10,5 @@ I'm a passionate software engineer with a focus on developing robust and scalabl
 
 ## Skills
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Django, Flask
+- **Frameworks:** Django, Flask, FastAPI
 - **Tools:** Git, Docker, Postman, VS Code, PyCharm, SQL
