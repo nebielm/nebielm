@@ -1,6 +1,6 @@
 # Hi, I'm Nebiel Mohammed 👋
 
-I'm a **Python Backend Engineer** from Berlin focused on **system design, backend architecture, and applied AI**.
+I'm a **Python Backend Engineer** based in Berlin, focused on **system design, backend architecture, and applied AI**.
 
 I enjoy designing reliable systems, defining clear service boundaries, and turning product requirements into maintainable backend architectures.
 
@@ -61,7 +61,7 @@ A FastAPI marketplace backend with authentication, messaging, listings, payments
 
 I particularly enjoy **system design and backend architecture**.
 
-I also use modern agentic development tools such as **Codex and OpenClaw** to accelerate implementation, testing, refactoring, and review while retaining responsibility for architecture, requirements, validation, and technical decisions.
+I use agentic development tools such as Codex and OpenClaw to accelerate implementation, testing and review while owning architecture, requirements and validation.
 
 ## Portfolio
 
