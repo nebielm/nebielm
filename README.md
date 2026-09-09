@@ -1,10 +1,10 @@
 # Hi, I'm Nebiel Mohammed 👋
 
-I'm a **Python Backend Engineer** based in Berlin, focused on **system design, backend architecture, and applied AI**.
+I'm a **Python Backend & Applied AI Engineer** based in Berlin, focused on **agentic systems, backend architecture, and reliable AI-enabled applications**.
 
-I enjoy designing reliable systems, defining clear service boundaries, and turning product requirements into maintainable backend architectures.
-
-My professional experience includes building the complete MVP backend for **Persohap (formerly AI Bonding)** and remaining the primary backend contributor through V1, while technically leading a small development team.
+I build with Python, FastAPI, PostgreSQL, AWS, Docker, LangGraph, LangChain, RAG, structured outputs, tool-using agents and stateful AI systems.
+My experience includes production backend engineering and technical leadership in an AI startup, stateful agent development, deterministic AI-enabled backend systems, and building my own product, LiquiCircle.
+I'm particularly interested in projects and roles where backend engineering and agentic AI meet: agent workflows, tools, state and memory, reliable LLM integrations, evaluation, system design and production infrastructure.
 
 ## What I work with
 
